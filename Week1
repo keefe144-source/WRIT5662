@@ -3,22 +3,38 @@ First impressions from week 1
 
 # Introduction #
 
-In week 1, we were introduced to what we will be discussing in the course and how to create a github account and basic markdown. Github will be used throughout the course to track our documentation. The three topics that interested me are Docs and Code, basics of GitHub, and writing in markdown.
+In week 1, we were introduced to what we will be discussing in the course and how to create a github account and basic markdown. Github will be used throughout the course to track our 
+documentation. The three topics that interested me are Docs and Code, basics of GitHub, and writing in markdown.
 
 ## Docs as Code ##
 
-Docs as Code means the way technical writers use the same documentation and file storage tools when interacting with source code as software developers do. This allows writes and software developers to manage documentation source code files in the same enviornment to maintain consistency across files. Version control allows teams to easily collaborate and make the writing process easier. Communciation becomes more effecient with software development processes. I was interested in this because I never thought about how technical writers and software developers collaborate with source code and projects. GitHub is a repository of Git and has more than 150 million users and offers free subscriptions. Corporations may subcribe to paid tiers to access more features. In my future  career, I might use Github or similar resources to organize source code files with colleagues in a different department. I could also you source code to reference when creating technical documentation. 
+Docs as Code means the way technical writers use the same documentation and file storage tools when interacting with source code as software developers do. This allows writes and software 
+developers to manage documentation source code files in the same enviornment to maintain consistency across files. Version control allows teams to easily collaborate and make the writing 
+process easier. Communciation becomes more effecient with software development processes. I was interested in this because I never thought about how technical writers and software developers 
+collaborate with source code and projects. GitHub is a repository of Git and has more than 150 million users and offers free subscriptions. Corporations may subcribe to paid tiers to access 
+more features. In my future  career, I might use Github or similar resources to organize source code files with colleagues in a different department. I could also you source code to 
+reference when creating technical documentation. 
 
 ## Bascis of GitHub ##
 
-Github is a source repository making it possible to collaborate on projects and files. Users do not need to be on the file all at once for one person to work on the project. Anyone can use GitHub for anything, it is not just for software developers or people in tech. I think I created a personal GitHub account a few years ago but never uploaded anaything to it, so this is going to be my real first time using GitHub for projects. I was a little confused at first when I created my first repository. There were no buttons to go or to create a file. The *code* page showed some introductory notes on how to get started and there was a link to create a file. I appreciate the tracking changes and the option to add descriptions to the files. This allows for more transparency. In a career, I would use GitHub to keep track of source code and to collaborate with others on projects. 
+Github is a source repository making it possible to collaborate on projects and files. Users do not need to be on the file all at once for one person to work on the project. Anyone can use 
+GitHub for anything, it is not just for software developers or people in tech. I think I created a personal GitHub account a few years ago but never uploaded anaything to it, so this is 
+going to be my real first time using GitHub for projects. I was a little confused at first when I created my first repository. There were no buttons to go or to create a file. The *code* 
+page showed some introductory notes on how to get started and there was a link to create a file. I appreciate the tracking changes and the option to add descriptions to the files. This 
+allows for more transparency. In a career, I would use GitHub to keep track of source code and to collaborate with others on projects. 
 
 ## Writing in Markdown ##
 
-Markdown is an easy way for users that do not have experience in it to write basic documentation. When I started to write in this file, I had GitHub in half of my screen and thought I would have to keep pressing enter when I got to the end so all of my text was not in one line. When I went to *preview* all of my text was broken up in different lines and I had to fix it. GitHub in full screen does not do this though. In other editors like R Studio, Microsoft Visual Studio, or PyCharm, you have to press enter at the right side of the screen so it is easier to read the text without scrolling to the side. In this file I used two different heading styles. I have experience writing comments and creating text designs in R, HTML, CSS, and Python so it is interesting to see what the conventions are in markdown. Markdown will be useful in my future career so I can easily communicate information to others. It makes writing and organizaing ideas easier. 
+Markdown is an easy way for users that do not have experience in it to write basic documentation. When I started to write in this file, I had GitHub in half of my screen and thought I 
+would have to keep pressing enter when I got to the end so all of my text was not in one line. When I went to *preview* all of my text was broken up in different lines and I had to fix it. 
+GitHub in full screen does not do this though. In other editors like R Studio, Microsoft Visual Studio, or PyCharm, you have to press enter at the right side of the screen so it is easier 
+to read the text without scrolling to the side. In this file I used two different heading styles. I have experience writing comments and creating text designs in R, HTML, CSS, and Python 
+so it is interesting to see what the conventions are in markdown. Markdown will be useful in my future career so I can easily communicate information to others. It makes writing and 
+organizaing ideas easier. 
 
 # Wrap Up #
 
-This week I learned a lot about how GitHub works and why it is used. It creates better collaboration of source code between technical writers and software developers. Markdown allows for ease of use for writers when communicating information. 
+This week I learned a lot about how GitHub works and why it is used. It creates better collaboration of source code between technical writers and software developers. 
+Markdown allows for ease of use for writers when communicating information. 
 
 

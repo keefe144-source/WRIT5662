@@ -6,7 +6,8 @@ with software developers, and converting Markdown to different formats.
 
 ## Creating Structure in Documents
 
-Markdown allows technical writers to create readable documents because of structured writing. The information posted on Canvas and the additional resource for this week provided useful tips for creating structure. If I wanted to include blocks of code, I can use the (`) symbol. An example is below:
+Markdown allows technical writers to create readable documents because of structured writing. The information posted on Canvas and the additional resource for this week provided useful 
+tips for creating structure. If I wanted to include blocks of code, I can use the (`) symbol. An example is below:
 
 ```
 def factorial(n):
@@ -16,17 +17,24 @@ def factorial(n):
     return result
 ```
 
-This organization allows for better readability and lets the user distinguid sections of text. Another example of structure are ordered lists. It is interesting that on the markdownguide.org website, they say that the numbers do not have to be in numerical order. The items will still be read starting at one and counting up. Lists also help break up text and allow for better readability. Technical writers can use structuring tecchniques to their advantage because they can create readable documents without worrying about messy layouts. 
+This organization allows for better readability and lets the user distinguid sections of text. Another example of structure are ordered lists. It is interesting that on the markdownguide.org
+website, they say that the numbers do not have to be in numerical order. The items will still be read starting at one and counting up. Lists also help break up text and allow for better 
+readability. Technical writers can use structuring tecchniques to their advantage because they can create readable documents without worrying about messy layouts. 
 
 ## Collaborating with Software Developers
 
-Markdown lets technical writers and software developers keep documents in the same location and for easy access to the documents. The documents are stored in the same repository as the source code which increases efficiency. Technical writers and software developers can track changes and make suggestions. This makes the enviornment more collaborative which means better results. Documents and files have a better chance at staying updated and that technical documents are kept in the loop about changes to a project or code. 
+Markdown lets technical writers and software developers keep documents in the same location and for easy access to the documents. The documents are stored in the same repository as the 
+source code which increases efficiency. Technical writers and software developers can track changes and make suggestions. This makes the enviornment more collaborative which means better 
+results. Documents and files have a better chance at staying updated and that technical documents are kept in the loop about changes to a project or code. 
 
 
 ## Converting Markdown to Different Formats
 
-Another way Markdown can be used by technical writers is to convert it into different formats. As seen in the resources for this week, Markdown can be easily converted to HTML. Following the basic syntax in Markdown can let a user create documents or sample webpages. Markdown can even be converted to a PDF or as a Word file. This is useful because a technical writer can provide the documentation in online and offline formats without the need for rewriting. The original text can be kept in a Markdown file and be updated when needed. 
+Another way Markdown can be used by technical writers is to convert it into different formats. As seen in the resources for this week, Markdown can be easily converted to HTML. Following 
+the basic syntax in Markdown can let a user create documents or sample webpages. Markdown can even be converted to a PDF or as a Word file. This is useful because a technical writer can 
+provide the documentation in online and offline formats without the need for rewriting. The original text can be kept in a Markdown file and be updated when needed. 
 
 ## Wrap Up
 
-Markdown is extremely useful for technical writers because it is used to create structed documents to effectively collaborate with others and publishing the content. The syntax is not hard to learn and it is intetionally designed that way so writers and developers can use it. It is useful when exporting it as an HTML file for websites or PDF for publishing.
+Markdown is extremely useful for technical writers because it is used to create structed documents to effectively collaborate with others and publishing the content. The syntax is not 
+hard to learn and it is intetionally designed that way so writers and developers can use it. It is useful when exporting it as an HTML file for websites or PDF for publishing.

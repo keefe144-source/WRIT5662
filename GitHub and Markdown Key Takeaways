@@ -7,7 +7,7 @@ with software developers, and converting Markdown to different formats.
 ## Creating Structure in Documents
 
 Markdown allows technical writers to create readable documents because of structured writing. The information posted on Canvas and the additional resource for this week provided useful 
-tips for creating structure. If I wanted to include blocks of code, I can use the (`) symbol. An example is below:
+tips for creating structure. If I wanted to include blocks of code, I can use the (`) symbol. An example of Python code is below:
 
 ```
 def factorial(n):
